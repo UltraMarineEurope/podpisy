@@ -1,5 +1,5 @@
 {
-  "v": 6,
+  "v": 7,
   "brand": {
     "logoDataUrl": "data:image/png;base64,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",
     "logoWidth": 170,
@@ -107,7 +107,9 @@
       "initials": "",
       "useInitials": false,
       "active": true,
-      "photoSize": 100
+      "photoSize": 100,
+      "mrTitle": "Sales Operations Manager",
+      "mrEmail": "jocelyn.weber@mr-letter.com"
     },
     {
       "id": "eldorbc525yj",
@@ -172,7 +174,9 @@
       "initials": "",
       "useInitials": false,
       "active": true,
-      "photoSize": 100
+      "photoSize": 100,
+      "mrTitle": "Sales Operations Manager",
+      "mrEmail": "karolina.masinova@mr-letter.com"
     },
     {
       "id": "e92r872025yj",
